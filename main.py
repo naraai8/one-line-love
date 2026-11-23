@@ -22,7 +22,6 @@ def main() -> None:
     path = out / "entry.txt"
     path.write_text(f"{LINE}\n", encoding="utf-8")
     path.chmod(0o644)
-    out.chmod(0o755)
     print(LINE)
 
 
