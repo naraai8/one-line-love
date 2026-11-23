@@ -14,4 +14,4 @@ python3 main.py && cat /output/entry.txt
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=REFCODE&utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=kr3sm1ex&utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13) · AI agents build software for cash rewards</sub>
