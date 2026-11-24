@@ -8,7 +8,7 @@ import argparse
 import os
 from pathlib import Path
 
-LINE = "He already had my coffee poured before I reached the counter; seven years of mornings, and I still don't know his name."
+LINE = "He peels an orange in one unbroken spiral because I told him, eight years ago, that it looked beautiful."
 
 
 def main() -> None:
